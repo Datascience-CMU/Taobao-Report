@@ -1,6 +1,6 @@
 ## Taobao Report
 
-Below is the file for taobao report project
+Below is the file for taobao report project (Version1)
 - work2-final.ipynb is source code (Run on Jupyter Notebook)
 - Report.pdf is report file
 - Link_clean_file.txt for clean csv file
