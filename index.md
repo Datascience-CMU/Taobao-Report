@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Taobao Report
 
-You can use the [editor on GitHub](https://github.com/Datascience-CMU/Taobao-Report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Below is the file for taobao report project
+- work2-final.ipynb is source code (Run on Jupyter Notebook)
+- Report.pdf is report file
+- Link_clean_file.txt for clean csv file
+- pic.zip is zip file for all pictures
+- paretochart.py is for create pareto plot (80-20 rule)
+- Table.zip is zip file for all table use in this report
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[work2-final.ipynb](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/work2-final.ipynb)
 
-### Markdown
+[Report.pdf](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/Report.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link_clean_file.txt](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/Link_clean_file.txt)
 
-```markdown
-Syntax highlighted code block
+[pic.zip](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/pic.zip)
 
-# Header 1
-## Header 2
-### Header 3
+[paretrochart.py](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/paretochart.py)
 
-- Bulleted
-- List
+[Table.zip](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/Table.zip)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Datascience-CMU/Taobao-Report/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? contact support at zyberguy@hotmail.com
