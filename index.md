@@ -2,6 +2,7 @@
 
 Below is the file for taobao report project (Version1)
 - work2-final.ipynb is source code (Run on Jupyter Notebook)
+- work2-final.html is for display source code and graph in internet browser
 - Report.pdf is report file
 - Link_clean_file.txt for clean csv file
 - pic.zip is zip file for all pictures
@@ -9,6 +10,8 @@ Below is the file for taobao report project (Version1)
 - Table.zip is zip file for all table use in this report
 
 [work2-final.ipynb](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/work2-final.ipynb)
+
+[work2-final.html](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/work2-final.html)
 
 [Report.pdf](https://github.com/Datascience-CMU/Taobao-Report/releases/download/Version1/Report.pdf)
 
